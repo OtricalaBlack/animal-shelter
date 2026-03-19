@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Пропал кот Кузя",
+    "description": "Рыжий кот, откликается на имя Кузя. Пропал в районе парка.",
+    "email": "kuzya@example.com",
+    "image": "/kuzya.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Потерялась собака Чара",
+    "description": "Чёрная овчарка, девочка. Была в красном ошейнике.",
+    "email": "chara@example.com",
+    "image": "/chara.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Пропал попугай Кеша",
+    "description": "Волнистый попугай, зелёного цвета. Улетел из дома на улице Ленина.",
+    "email": "kesha@example.com",
+    "image": "/kesha.jpg"
+  }
+]
